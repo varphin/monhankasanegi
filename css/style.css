@@ -189,4 +189,14 @@ html{
     aside {
         width: 95%;
     }
+    .syotai {
+        font-family: 'HG行書体', serif;
+        font-size: 1rem;
+    }
+    
+    .syotai2 {
+        font-family: 'HG行書体', serif;
+        font-size: 1rem;
+        margin-top: 5px;
+    }
 }
