@@ -191,15 +191,15 @@ html{
     }
     .syotai {
         font-family: 'HG行書体', serif;
-        font-size: 1.125rem;
+        font-size: 1.25rem;
     }
     
     .syotai2 {
         font-family: 'HG行書体', serif;
-        font-size: 1rem;
+        font-size: 1.125rem;
         margin-top: 5px;
     }
     .title {
-        font-size: 1.125rem;
+        font-size: 1.25rem;
     }
 }
