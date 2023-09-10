@@ -186,6 +186,9 @@ html{
         flex-direction: column;
         align-items: center;
     }
+    article {
+        width: 95%;
+    }
     aside {
         width: 95%;
     }
